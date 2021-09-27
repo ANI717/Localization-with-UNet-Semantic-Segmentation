@@ -1,10 +1,9 @@
-<h1 align="center">Car Localization with Semantic Segmentation</h1>
+<h1 align="center">Car Localization with Semantic Segmentation using UNet</h1>
 
 [Training Dataset Source.](https://www.kaggle.com/dansbecker/cityscapes-image-pairs)<br/>
-[UNet PyTorch Tutorial.](https://youtu.be/IHq1t7NxS8k)<br/>
 [Pix2Pix PyTorch Tutorial.](https://youtu.be/SuddDSqGRzg)<br/>
 
-## UNet 
+## Random Picks from Validation Dataset
 `Pixel to Pixel Accuracy`: `99.07%`<br/>
 `Dice Score`: `0.89`<br/>
 `Epochs`: `100`<br/>
